@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlueprintPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GitHub\HaveFunWithUE4\CustomBlueprintPlugin\CustomBlueprintPlugin\CustomBPPlugin\Intermediate\Build\Win64\CustomBPPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"F:\GitHub\HaveFunWithUE4\CustomBlueprintPlugin\CustomBlueprintPlugin\CustomBPPlugin\Plugins\BlueprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintPlugin\BlueprintPlugin.cpp.obj"
+"F:\GitHub\HaveFunWithUE4\CustomBlueprintPlugin\CustomBlueprintPlugin\CustomBPPlugin\Plugins\BlueprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintPlugin\Default.rc2.res"
+/OUT:"F:\GitHub\HaveFunWithUE4\CustomBlueprintPlugin\CustomBlueprintPlugin\CustomBPPlugin\Plugins\BlueprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlueprintPlugin\UE4Editor-BlueprintPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_BlueprintPlugin
