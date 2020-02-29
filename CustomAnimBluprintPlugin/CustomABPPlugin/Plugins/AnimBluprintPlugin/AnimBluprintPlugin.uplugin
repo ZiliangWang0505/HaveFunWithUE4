@@ -1,0 +1,30 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "AnimBluprintPlugin",
+  "Description": "custon anim blueprint plugin",
+  "Category": "Other",
+  "CreatedBy": "Ziliang Wang",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "AnimBluprintPlugin",
+      "Type": "Editor",
+      "LoadingPhase": "PreDefault"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "PhysXVehicles",
+      "Enabled": true
+    }
+  ]
+}

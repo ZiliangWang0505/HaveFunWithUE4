@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AnimBluprintPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GitHub\HaveFunWithUE4\CustomAnimBluprintPlugin\CustomABPPlugin\Intermediate\Build\Win64\CustomABPPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"F:\GitHub\HaveFunWithUE4\CustomAnimBluprintPlugin\CustomABPPlugin\Plugins\AnimBluprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimBluprintPlugin\AnimBluprintPlugin.cpp.obj"
+"F:\GitHub\HaveFunWithUE4\CustomAnimBluprintPlugin\CustomABPPlugin\Plugins\AnimBluprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimBluprintPlugin\Default.rc2.res"
+/OUT:"F:\GitHub\HaveFunWithUE4\CustomAnimBluprintPlugin\CustomABPPlugin\Plugins\AnimBluprintPlugin\Intermediate\Build\Win64\UE4Editor\Development\AnimBluprintPlugin\UE4Editor-AnimBluprintPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_AnimBluprintPlugin
