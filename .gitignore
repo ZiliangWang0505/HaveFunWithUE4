@@ -1,6 +1,8 @@
 
-CustomBlueprintPlugin/CustomBPPlugin/.vs/
-CustomBlueprintPlugin/CustomBPPlugin/Intermediate/
-CustomBlueprintPlugin/CustomBPPlugin/Binaries/
-CustomBlueprintPlugin/CustomBPPlugin/Saved/
 .husky/
+*/.vs/
+*/Intermediate/
+*/Binaries/
+*/Saved/
+*/Content/Collections
+*/Content/Developers
